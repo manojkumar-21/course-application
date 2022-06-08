@@ -1,0 +1,17 @@
+.course-container{
+    padding: 30px;
+    background-color: aliceblue;
+    margin: 0 100px;
+    
+}
+.course{
+    padding:15px;
+    color:darkblue;
+}
+.enq-btn{
+    padding: 5px 20px;
+    border-radius: 5%;
+}
+.card-container{
+    gap:100px
+}
